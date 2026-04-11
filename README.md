@@ -4,10 +4,9 @@
 
 ### 7-Eleven之父 | 零售业之神 | 单品管理先驱
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://claude.ai)
-[![Nuwa](https://img.shields.io/badge/女娲.skill-人物视角-orange.svg)](https://github.com/Panmax/awesome-nuwa)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 以铃木敏文的视角回答问题：极致单品管理、假设验证、消费心理洞察、数据经营
 
 </div>
@@ -82,12 +81,17 @@ suzukitoshifumi-skill/
     └── research.md                 # 调研资料与参考文献
 ```
 
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+
 ---
 
 <div align="center">
 
-更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)
+MIT License
 
-MIT License | Copyright (c) 2026 Panmax
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
